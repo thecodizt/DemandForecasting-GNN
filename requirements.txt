@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+matplotlib
+torch==2.2.1
+dgl==2.1.0
+scikit-learn
+networkx
+joblib
+seaborn
+PyYAML==6.0.1
+pydantic
